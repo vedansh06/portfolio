@@ -1,4 +1,4 @@
-import { WindowControls } from "#components";
+import { WindowControls } from "#components/index.js";
 import { blogPosts } from "#constants";
 import WindowWrapper from "#hoc/WindowWrapper.jsx";
 import {
